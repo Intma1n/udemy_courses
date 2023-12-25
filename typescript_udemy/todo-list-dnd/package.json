@@ -1,0 +1,14 @@
+{
+  "dependencies": {
+    "prettier": "^2.1.2",
+    "typescript": "^5.2.2"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "lite-server"
+  },
+  "devDependencies": {
+    "eslint-config-prettier": "^6.15.0",
+    "lite-server": "^2.5.4"
+  }
+}
